@@ -1,6 +1,6 @@
-# agl_flutter_quiz_app
+# A Basic Flutter App
 
-A new Flutter project.
+This is a very basic basic flutter app that displays a persons name. This app was created as part of AGL GSoC 2023 quiz.
 
 ## Getting Started
 
